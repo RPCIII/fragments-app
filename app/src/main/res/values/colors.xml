@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#1C3C9B</color>
+    <color name="nightSky">#141852</color>
+    <color name="white">#ffffff</color>
+    <color name="darkLavender">#6b4984</color>
+    <color name="cetBlue">#070b34</color>
+    <color name="chinViolet">#855988</color>
+    <color name="regalia">#483475</color>
+</resources>

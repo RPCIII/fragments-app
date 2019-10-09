@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="images">
+        <item>@drawable/ghost_hand</item>
+        <item>@drawable/ghost_nebula</item>
+        <item>@drawable/witch_head</item>
+        <item>@drawable/zombie_star</item>
+    </array>
+
+    <string-array name="names">
+        <item>Ghost Hand</item>
+        <item>Space Ghosts</item>
+        <item>Witch Head</item>
+        <item>Zombie Star</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>The Hand of God is a pulsar wind nebula, which is a cloud of material ejected by an exploding star. The
+        particles interact with magnetic fields surrounding them, causing them to glow like an x-ray.</item>
+        <item>The Ghost Nebula is classified as two different nebulas; reflection and emission. It is both reflecting
+        the light of nearby star and emitting its own light via radiation. However, radiation from the nearby star
+        is causing this nebula to dissipate.</item>
+        <item>This nebula received its name from its resemblance to a witch\'s head; it is a reflection nebula and
+        gets its color through the light of a nearby star in combination with the dust grains that comprise it. The star from
+        which it receives light is part of the constellation Orion.</item>
+        <item>This star, Tycho, was once a white dwarf. It is the remnants of a supernova that has accumulated
+        mass from a nearby star to the point where it exploded a second time, deeming it the nickname \"Zombie Star\".</item>
+    </string-array>
+
+    <string-array name="urls">
+        <item>Find out more at: https://www.nasa.gov/jpl/nustar/B1509-pia17566</item>
+        <item>Find out more at: https://www.spacetelescope.org/images/heic1818a/</item>
+        <item>Find out more at: https://www.nasa.gov/multimedia/imagegallery/image_feature_1209.html</item>
+        <item>Find out more at: https://www.space.com/12440-zombie-stars-dark-energy-supernovas.html</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentApp</string>
+    <string name="ghostHand">Ghost Hand</string>
+    <string name="spaceGhosts">Space Ghosts</string>
+    <string name="witchHead">Witch Head</string>
+    <string name="zombieStar">Zombie Star</string>
+    <string name="description_format">%1$s\n\n%2$s</string>
+</resources>
